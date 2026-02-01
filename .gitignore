@@ -1,0 +1,21 @@
+# Executables
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.a
+*.dll
+
+# Build folder
+/build
+
+# VS Code settings
+.vscode/
+
+# Test / old files
+pong.c
+test.c
+comp.txt
